@@ -8,7 +8,7 @@
 
 nav ul a,
 nav .brand-logo {
-  color: #444;
+  color: #fff;/*#444;*/
 }
 
 p {
@@ -16,7 +16,7 @@ p {
 }
 
 .sidenav-trigger {
-  color: #26a69a;
+  color: #fff;
 }
 
 .parallax-container {
@@ -27,6 +27,11 @@ p {
 }
   .parallax-container .section {
     width: 100%;
+  }
+
+  .filtro {
+    -webkit-filter: brightness(50%);
+    filter: brightness(50%);
   }
 
 @media only screen and (max-width : 992px) {
