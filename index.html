@@ -22,10 +22,11 @@
 
 </head>
 <body>
+  
 
   <div class="navbar-fixed">
     <nav class="white" role="navigation">
-      <div class="nav-wrapper container fixed">
+      <div class="nav-wrapper">
         <a id="logo-container" href="index.html" class="brand-logo"><b>sarfis</b>.cl</a>
         <ul class="right hide-on-med-and-down">
           <li><a href="index.html">Inicio</a></li>
@@ -33,7 +34,7 @@
           <li><a href="contacto.html">Contacto</a></li>
         </ul>
 
-        <ul id="nav-mobile" class="sidenav">
+        <ul id="nav-mobile" class="sidenav top-nav">
           <li><a href="index.html">Inicio</a></li>
           <!--li><a href="nosotros.html">Nosotros</a></li-->
           <li><a href="contacto.html">Contacto</a></li>
@@ -48,7 +49,7 @@
     <div class="section no-pad-bot">
       <div class="container">
         <br><br>
-        <h2 class="header center teal-text text-lighten-2">¿Necesita un sitio web?l</h2>
+        <h2 class="header center teal-text text-lighten-2">¿Necesita un sitio web?</h2>
         <div class="row center">
           <h5 class="header col s12 light">Somos su mejor alternativa, en cuanto a relación - precio.</h5>
         </div>
@@ -178,10 +179,10 @@
   <script src="js/init.js"></script>
 
   <script>
-    $('.fixed-action-btn').floatingActionButton({
-      toolbarEnabled: true
+    document.addEventListener('DOMContentLoaded', function() {
+      var elems = document.querySelectorAll('.sidenav');
+      var instances = M.Sidenav.init(elems, options);
     });
-      
   </script>
 
   </body>
