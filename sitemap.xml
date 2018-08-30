@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>http://sarfis.cl/</loc>
+    <lastmod>2018-08-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://sarfis.cl/background3.jpeg</image:loc>
+      <image:title>Desarrollo Web, Software, Apps, Aplicaciones</image:title>
+      <image:caption>Desarrollo Web, Software, Apps, Aplicaciones</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://sarfis.cl/background02.jpg</image:loc>
+      <image:title>Desarrollo web, desarrollo Apps, Software, Aplicaciones</image:title>
+      <image:caption>Desarrollo web, desarrollo Apps, Software, Aplicaciones</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://sarfis.cl/background2.jpeg</image:loc>
+      <image:title>Apps móviles, IOS, Android, Páginas Web</image:title>
+      <image:caption>Apps móviles, IOS, Android, Páginas Web</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://sarfis.cl/index.html</loc>
+    <lastmod>2018-08-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://sarfis.cl/background3.jpeg</image:loc>
+      <image:title>Desarrollo Web, Software, Apps, Aplicaciones</image:title>
+      <image:caption>Desarrollo Web, Software, Apps, Aplicaciones</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://sarfis.cl/background02.jpg</image:loc>
+      <image:title>Desarrollo web, desarrollo Apps, Software, Aplicaciones</image:title>
+      <image:caption>Desarrollo web, desarrollo Apps, Software, Aplicaciones</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://sarfis.cl/background2.jpeg</image:loc>
+      <image:title>Apps móviles, IOS, Android, Páginas Web</image:title>
+      <image:caption>Apps móviles, IOS, Android, Páginas Web</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://sarfis.cl/contacto.html</loc>
+    <lastmod>2018-08-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://sarfis.cl/background3.jpeg</image:loc>
+      <image:title>Unsplashed background img 1</image:title>
+      <image:caption>Unsplashed background img 1</image:caption>
+    </image:image>
+  </url>
+</urlset>
+<!--<guid value="e4952866-0e40-4219-84cc-1605d955f12e" />-->
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
